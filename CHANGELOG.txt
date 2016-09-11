@@ -1,0 +1,2 @@
+* Sat Sep 10 2016 Ryan Parman <ryan.parman@wepay.com> 1.7.1-1
+- Bundles Go 1.7.1 and related tooling.
