@@ -1,3 +1,6 @@
+* Fri Jan 27 2017 Ryan Parman <ryan@ryanparman.com> 1.7.5-1
+- Bundles Go 1.7.5 and related tooling.
+
 * Mon Oct 24 2016 Ryan Parman <ryan@ryanparman.com> 1.7.3-1
 - Bundles Go 1.7.3 and related tooling.
 
