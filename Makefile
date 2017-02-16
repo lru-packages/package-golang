@@ -1,5 +1,5 @@
 NAME=golang
-VERSION=1.8
+VERSION=1.8.0
 EPOCH=1
 ITERATION=1
 PREFIX=/usr/local
