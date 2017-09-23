@@ -1,5 +1,5 @@
 NAME=golang
-VERSION=1.9.0
+VERSION=1.9
 ITERATION=1.lru
 PREFIX=/usr/local
 LICENSE=BSD
